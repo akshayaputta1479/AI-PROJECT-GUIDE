@@ -1,0 +1,9 @@
+title,domain,difficulty,technologies
+AI-Based Interview Assessment System,Career,Intermediate,"Python; NLP; scikit-learn; Streamlit"
+Resume Analyzer Using NLP,Career,Intermediate,"Python; NLP; PDF; Streamlit"
+College Campus AI Assistant,Education,Intermediate,"Python; NLP; RAG; Streamlit"
+Student Placement Management System,Education,Beginner,"Java; SQL; Streamlit"
+Student Performance Predictor,Education,Beginner,"Python; pandas; scikit-learn"
+Environmental Data Dashboard,Environment,Beginner,"Python; pandas; NumPy; Streamlit"
+Personal Expense Analyzer,Finance,Beginner,"Python; pandas; SQL; Streamlit"
+Customer Churn Predictor,Business,Intermediate,"Python; pandas; scikit-learn"
